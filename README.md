@@ -1,4 +1,4 @@
-# Project 3 Final
+# Neural Network in C using CUDA
 
 Dikshant Pratap Singh
 
